@@ -1,6 +1,4 @@
-Here is a `README.md` file created with emojis and styled for your project based on the uploaded file:
 
-```markdown
 # 🌟 Abir Arafat Chawdhury's Portfolio Website 🌟
 
 Welcome to the personal portfolio website of **Abir Arafat Chawdhury** – aka Abir360, a passionate **coder**, **modder**, and **freelancer**! 🚀
